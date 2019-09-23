@@ -42,6 +42,7 @@ function init(){
 
   var onMouseLeaveHandler = function() {
     inner.style = "";
+    inner1.style = "";
   };
 
   var onMouseMoveHandler = function(event) {
